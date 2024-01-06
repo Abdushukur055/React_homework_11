@@ -1,0 +1,22 @@
+.box-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+.box{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+button{
+    margin-top: 20px;
+    background-color: blueviolet;
+    border: none;
+    padding: 10px;
+    color: #fff;
+    border-radius: 10px;
+}
